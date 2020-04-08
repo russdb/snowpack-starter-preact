@@ -1,4 +1,5 @@
-Simple starter for snowpack/preact.  
+Simple starter for snowpack/preact using the NPM method  
+https://www.snowpack.dev/#quick-start
 
 `mkdir <dir> && cd <dir>`  
   
